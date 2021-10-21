@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 문자열 클래스의 차이 ( String, StringBuffer, StringBuilder)
+title: 문자열 클래스간의 차이 ( String, StringBuffer, StringBuilder)
 date: 2021-10-12 14:22:20 +0900
 description: 
 categories : java
